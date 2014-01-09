@@ -1,0 +1,26 @@
+{
+  "name": "jquery-hoverIntent",
+  "version": "0.7.0",
+  "homepage": "http://cherne.net/brian/resources/jquery.hoverIntent.html",
+  "authors": [
+    "Brian Cherne <brian@cherne.net>"
+  ],
+  "description": "hover intent jQuery plug-in",
+  "main": "jquery.hoverIntent.js",
+  "keywords": [
+    "hover",
+    "intent",
+    "hoverintent"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.9.1"
+  }
+}
